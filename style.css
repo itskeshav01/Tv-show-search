@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+img{
+    margin:2rem;
+}
+h2{
+    display: inline;
+    margin: -1;
+    text-align: left;
+}
